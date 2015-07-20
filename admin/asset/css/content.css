@@ -1,0 +1,16 @@
+body{
+	font-family:Calibri, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#333;
+	line-height:1.4;
+}
+
+body *{
+	max-width:800px;
+	font-family:inherit;
+}
+img{
+	max-width:100%;
+	height:auto;
+	margin:10px;
+}
